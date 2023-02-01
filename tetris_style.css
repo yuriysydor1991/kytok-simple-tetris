@@ -1,0 +1,40 @@
+.tetris_block
+{
+    background-color: #ccc ;
+    width: 500px ;
+    overflow: hidden ;
+    margin: 0 auto ;
+    padding: 0 ;
+}
+
+.tetris_stat
+{
+    float: left ;
+}
+
+.tetris_game_area
+{
+    width: 300px ;
+    height: 500px ;
+    background-color: #000 ;
+    overflow: hidden ;
+    float: left ;
+    padding: 0 ;
+    margin: 0 ;
+    margin-top: 0 ;
+    margin-bottom: 0 ;
+}
+
+.tetris_game_score
+{
+    font-family: FreeMono, "Courier New" ;
+    font-size: 30px ;
+    display: block ;
+}
+
+.tetris_game_level
+{
+    font-family: FreeMono, "Courier New" ;
+    font-size: 30px ;
+    display: block ;
+}
